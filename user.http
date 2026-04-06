@@ -1,0 +1,8 @@
+### Query Admin User Guide
+POST http://localhost:5000/query
+Content-Type: application/json
+
+{
+    "query": "How to see student perfomance",
+    "role": "Teachers"
+}

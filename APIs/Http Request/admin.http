@@ -1,0 +1,7 @@
+### Query Admin User Guide
+POST http://localhost:5003/adminquery
+Content-Type: application/json
+
+{
+    "query": "How to add student"
+}

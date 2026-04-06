@@ -1,0 +1,7 @@
+### Query Admin User Guide
+POST http://localhost:5002/teacherquery
+Content-Type: application/json
+
+{
+    "query": "what we can see Top Students by Specialty "
+}
