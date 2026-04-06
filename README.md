@@ -11,7 +11,6 @@ The Retrieval-Augmented Generation (RAG) pipeline is an innovative approach that
 5. [Configuration](#configuration)
 6. [Examples](#examples)
 7. [Contributing](#contributing)
-8. [License](#license)
 
 ## Introduction
 The RAG pipeline integrates external knowledge sources to enrich the generative capabilities of language models, allowing for more accurate and contextually relevant responses.
@@ -45,9 +44,3 @@ Configuration files can be found in the `config` directory. Adjust the parameter
 Example usage can be found in the `examples` folder. These include:
 - Basic RAG implementation
 - Advanced configurations
-
-## Contributing
-Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
