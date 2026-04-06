@@ -7,10 +7,8 @@ The Retrieval-Augmented Generation (RAG) pipeline is an innovative approach that
 1. [Introduction](#introduction)
 2. [Features](#features)
 3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Configuration](#configuration)
-6. [Examples](#examples)
-7. [Contributing](#contributing)
+
+
 
 ## Introduction
 The RAG pipeline integrates external knowledge sources to enrich the generative capabilities of language models, allowing for more accurate and contextually relevant responses.
@@ -28,19 +26,4 @@ cd Rag-Pipeline
 pip install -r requirements.txt
 ```
 
-## Usage
-To use the RAG pipeline, import it into your project:
-```python
-from rag_pipeline import RAG
-
-rag = RAG()
-rag.run()
 ```
-
-## Configuration
-Configuration files can be found in the `config` directory. Adjust the parameters according to your needs, such as model paths and retrieval settings.
-
-## Examples
-Example usage can be found in the `examples` folder. These include:
-- Basic RAG implementation
-- Advanced configurations
