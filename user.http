@@ -3,6 +3,6 @@ POST http://localhost:5000/query
 Content-Type: application/json
 
 {
-    "query": "How to see student perfomance",
+    "query": "what is the role of teacher",
     "role": "Teachers"
 }
